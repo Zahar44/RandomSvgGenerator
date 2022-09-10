@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<svg version = "1.1"
+      baseProfile="full"
+      xmlns = "http://www.w3.org/2000/svg" 
+      xmlns:xlink = "http://www.w3.org/1999/xlink"
+      xmlns:ev = "http://www.w3.org/2001/xml-events"
+      height = "400px"  width = "400px">
+	<circle cx="200px" cy="200px" r="200px" fill="#4F7"/>
+	<circle cx="139px" cy="109px" r="14px" fill="#FFF"/>
+	<circle cx="237px" cy="97px" r="11px" fill="#FFF"/>
+	<polygon points="177.50632829597615, 338.4199796574994 271.5104317768722, 313.62385350970237 270.8365684602185, 251.35521668141433 272.18747842042984, 207.37365495752303 226.45056937680283, 174.54351496306293 199.04924041216128, 193.96137356434707 153.58173623432413, 231.94782141062447 143.39100511974954, 257.56665034204076 157.11543607262118, 310.504271408004" style="fill:#3E4;stroke:#A8D;stroke-width:1" />
+</svg>
